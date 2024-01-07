@@ -1,4 +1,4 @@
-# Using a Simple Multimodal LLM to Enhance the Processing of Text-heavy Visual Questions.
+# Using a Simple Multimodal LLM to Enhance the Processing of Text-rich Visual Questions.
 
 
 
