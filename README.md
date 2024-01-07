@@ -55,7 +55,7 @@ python evaluate.py --answer_mc \
 ```
 ## Demo
 
-Our Demo is publicly available at [here](https://huggingface.co/spaces/mlpc-lab/BLIVA). To run our demo locally on your machine. Run:
+To run our demo locally on your machine. Run:
 
 ```Shell
 python demo.py
