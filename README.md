@@ -1,4 +1,4 @@
-# Using a Simple Multimodal LLM to Enhance the Processing of Text-rich Visual Questions.
+# A Multi-modal LLM Framework for Text-rich Visual Question Answering
 
 
 
