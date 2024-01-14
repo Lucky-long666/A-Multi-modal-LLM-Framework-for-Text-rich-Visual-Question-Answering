@@ -13,10 +13,6 @@ conda activate bliva
 
 2. build from source
 
-```bash
-git clone [https://](https://github.com/Lucky-long666/A-Multimodal-LLM)
-cd BLIVA
-pip install -e .
 ```
 
 ## Prepare Weight
